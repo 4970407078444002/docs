@@ -1,4 +1,4 @@
----
+500,0000---
 title: GitHub Terms of Service
 redirect_from:
   - /tos/
